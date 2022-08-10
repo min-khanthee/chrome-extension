@@ -2,6 +2,7 @@ html,
 body {
   margin: 0;
   padding: 0;
+  color: white;
 }
 
 body {
@@ -10,4 +11,6 @@ body {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 1px 1px 2px #474747;
 }
